@@ -1,3 +1,4 @@
+// C basics - variables example
 #include <stdio.h>
 
 int main() {
